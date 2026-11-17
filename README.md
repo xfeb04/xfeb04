@@ -19,7 +19,7 @@
 
 ## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,figma,wordpress,linux,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,figma,wordpress,vscode,github" />
 </p>
 
 
