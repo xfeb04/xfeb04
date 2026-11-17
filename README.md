@@ -28,7 +28,7 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights |
 |---------|------|-----------|
-| BookShop | Spring MVC · JSP · MySQL | Design your own screen |
+| Platform Exchange Skills By Time Credits | SpringBoot · JSP · MySQL | can learning skills in Platform |
 
 
 
