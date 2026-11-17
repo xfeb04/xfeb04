@@ -28,7 +28,7 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights |
 |---------|------|-----------|
-| Platform Exchange Skills By Time Credits | SpringBoot · JSP · MySQL | can learning skills in Platform |
+| Platform Exchange Skills By Time Credits | Java · Spring Boot · Spring MVC · JSP · Spring Data JPA · MySQL | Developed a platform for users to teach and learn skills using time credits. Implemented course registration and approval, credit reservation and settlement, skill profiles, and administrative reporting. |
 
 
 
