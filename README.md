@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I’m Worawiboon K <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Backend Developer • API Builder • Problem Solver</strong><br/>
+  <strong>Backend Developer • Problem Solver</strong><br/>
   <em>“Engineering the core behind the code.”</em>
 </p>
 
@@ -44,7 +44,9 @@
 ## 📈 Skills
 <div >
   <h3>Hard skills</h3>
-  -Robot framework<br>
+  -Programming (Java, JavaScript)<br>
+  -Databases (MySQL,SQL)<br>
+  -Generative AI Tools (Stitch AI, Codex)<br>
   -Github<br>
   -Microsoft Office<br>
   <br>
