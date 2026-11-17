@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Backend Developer • Problem Solver</strong><br/>
-  <em>“Engineering the core behind the code.”</em>
+  
 </p>
 
 ---
