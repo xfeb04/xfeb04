@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning : SpringBoot , JSP , CSS , JavaScript  
+- 🌱  I’m currently learning : Spring Boot , JSP , CSS , JavaScript  
 - 🛠  Tools: Eclipse · VS Code · GitHub  
 - 🎯  2027 Goal: Master Spring Boot & Microservices for scalable backend systems  
 - 📫  Reach me: fevboily@gmail.com
